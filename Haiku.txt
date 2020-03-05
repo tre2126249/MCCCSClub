@@ -27,6 +27,6 @@ Fear the registers
 
 - Ardinuo Haiku
 
-An Ardino
+An Arduino is
 A poor raspberry
-Jeff Bezos
+I'm Jeff Bezos
