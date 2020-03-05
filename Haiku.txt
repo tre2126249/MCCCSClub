@@ -23,10 +23,3 @@ Bunch of casuals
 Real coders program in MIPS
 Fear the registers
 
-----------------------------
-
--Arduino Haiku
-
-blah blah blah
-line
-what is my line?
