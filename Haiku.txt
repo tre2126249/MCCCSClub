@@ -23,3 +23,10 @@ Bunch of casuals
 Real coders program in MIPS
 Fear the registers
 
+------------------------------
+
+- Ardunio Haiku
+
+blah blach blah
+line
+the best haiku
